@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,700;0,900;1,400&family=Phudu:wght@400;600;700;800;900&family=Ubuntu:wght@300;400;700&display=swap');
+/*--RESET*/
+
+html{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+}
+
+h1, h2, h3, h4, h5, p, ul, hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+input {
+    font-family: inherit;
+    outline: none;
+    border: none;
+}
+
+button {
+    font-family: inherit;
+    border: none;
+    cursor: pointer;
+}
+

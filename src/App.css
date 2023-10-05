@@ -1,0 +1,97 @@
+.app__container {
+   
+}
+
+.homepage__img {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepage__form {
+    display: flex;
+    justify-content: center;
+}
+
+.homepage__title {
+    
+    width: 400px;
+    height: 60px;
+    top: 256px;
+    left: 389px;
+
+}
+
+.homepage__greeting {
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FE1936;
+
+
+}
+
+.homepage__paragraph {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #302F2F;
+}
+
+.homepage__input{
+    font-size: 25px;
+    box-shadow: 5px 5px 2px #ccc;
+    width: 250px;
+    height: 40px;
+
+   
+}
+
+.homepage__button {
+    font-size: 18px;
+    box-shadow: 5px 5px 2px  #ccc;
+    width: 70px;
+    height: 40px;
+    background-color: #df2941;
+
+}
+
+.homepage__footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.pokedexpage__hi {
+    font-weight: 700;
+    color: #FE1936;
+    font-size: 24px;
+}
+
+.pokedexpage__form {
+    display: flex;
+    display: inline-block;
+}
+
+.pokedexpage__button {
+    background-color: #eb3c53;
+    box-shadow: 5px 5px 2px #ccc;
+    width: 70px;
+    height: 40px;
+
+}
+
+.pokedexpage__input {
+    box-shadow: 5px 5px 2px #ccc;
+    width: 250px;
+    height: 40px;
+
+}
